@@ -1,0 +1,9 @@
+C:\Users\Shady\Source\Repos\TrexGame\bin\Debug\TrexGame.exe.config
+C:\Users\Shady\Source\Repos\TrexGame\bin\Debug\TrexGame.exe
+C:\Users\Shady\Source\Repos\TrexGame\bin\Debug\TrexGame.pdb
+C:\Users\Shady\Source\Repos\TrexGame\obj\Debug\TrexGame.csprojAssemblyReference.cache
+C:\Users\Shady\Source\Repos\TrexGame\obj\Debug\TrexGame.Form1.resources
+C:\Users\Shady\Source\Repos\TrexGame\obj\Debug\TrexGame.Properties.Resources.resources
+C:\Users\Shady\Source\Repos\TrexGame\obj\Debug\TrexGame.csproj.GenerateResource.cache
+C:\Users\Shady\Source\Repos\TrexGame\obj\Debug\TrexGame.exe
+C:\Users\Shady\Source\Repos\TrexGame\obj\Debug\TrexGame.pdb
